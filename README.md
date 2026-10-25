@@ -11,12 +11,14 @@ The dataset contains 200 records with four variables:
 - Newspaper: Newspaper advertising spend
 - Sales: Recorded sales
 Input file: Company_data.csv
+
 Tools and Libraries
 - Python
 - pandas and NumPy
 - Matplotlib and Seaborn
 - scikit-learn
 - statsmodels
+- 
 Analysis Workflow
 1. Parsed the input data and converted columns to numeric values.
 2. Reviewed data types and descriptive statistics.
